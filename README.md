@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazil-ashraf
 - 👀 I’m interested in front end developing 
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning react js and use redux for state management
 .
 
 <!---
